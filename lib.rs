@@ -3,7 +3,7 @@ use anchor_spl::token::{self, Mint, Token, TokenAccount, Transfer};
 
 // This is your program's public key and it will update
 // automatically when you build the project.
-declare_id!("3XYZk6LsMbvXfbmTV9Abkd6AjL9XUtccepaUyGCABocU");
+declare_id!("C6nWTxL9avbhxqV4e1q7Sbdkk2uYEz96zDu7cLgsdpdM");
 
 #[program]
 mod momo_staking {
